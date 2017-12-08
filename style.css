@@ -14,7 +14,7 @@ body{
 
 /* Header **/
 header{
-	background:#35424a;
+	background:#0e46a0;
 	color:#ffffff;
 	padding-top:30px;
 	min-height:70px;
@@ -22,14 +22,14 @@ header{
 }
 
 header a{
-	color:#ffffff;
+	color:#a3abb7;
 	text-decoration:none;
 	text-transform: uppercase;
 	font-size:16px;
 }
 
 header ul{
-	margin:0;
+	margin-top:10px;
 	padding:0;
 }
 
@@ -49,4 +49,9 @@ header #branding h3{
 header nav{
 	float:right;
 	margin-top:10px;
+}
+
+header .highlight, header .current a{
+	color:000000;
+	font-weight:bold;
 }
