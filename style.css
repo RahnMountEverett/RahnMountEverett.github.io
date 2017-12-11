@@ -63,10 +63,10 @@ header a:hover{
 
 /* showcase */
 #showcase{
-	min-height:400px;
-	background:url('../Images/Cayde.png') no-repeat 0 -400px;
+	min-height:0px;
+	background:url('./Images/de.png') no-repeat -25px;
 	text-align:center;
-	color:#1c3e75;
+	color:#ff0000;
 }
 
 #showcase h1{
